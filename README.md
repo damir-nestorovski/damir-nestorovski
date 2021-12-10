@@ -11,7 +11,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/damir-nestorovski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nestorovski" height="30" width="40" /></a><a href="mailto:damir.nestorovski@gmail.com"><img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="damir-nestorovski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/damir-nestorovski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nestorovski" height="30" width="30" /></a><a href="mailto:damir.nestorovski@gmail.com"><img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="damir-nestorovski" height="30" width="40" /></a>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
