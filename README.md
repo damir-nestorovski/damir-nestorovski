@@ -1,33 +1,16 @@
 ### Hi there <a href="https://damir-nestorovski.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Type of functions with Javascript and Typescript](https://damir-nestorovski.web.app)
-- [Read this and learn Typescript](https://damir-nestorovski.web.app)
-- [Vue.js type of components and how to use them](https://damir-nestorovski.web.app)
-- [HTML form validation](https://damir-nestorovski.web.app)
-<!-- BLOG-POST-LIST:END -->
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/damir-nestorovski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nestorovski" height="30" width="40" /></a><a href="mailto:damir.nestorovski@gmail.com"><img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="damir-nestorovski" height="30" width="30" style="margin-left: 5px"/></a>
 
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+&nbsp;**About**
 
-Knowledgeable Full Stack Developer brings superior front and back- end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS, JavaScript, PHP, Python programming languages to generate custom webpage design.
+As a software developer, I design, test, and build user-friendly software solutions by analyzing user needs, writing robust and reliable codes, and optimizing application functionalities. To do so, I leverage cutting-edge coding and programming languages and continuously monitor and debug software.<br><br>
 
-Extensive collaboration with fast-paced agile/scrum teams to ascertain company expectations and oversee site creation, from initial planning through rollout and support. Detail-oriented approach to maintaining website responsiveness, effectiveness and security.
+I deliver seamless user experiences by designing and developing robust front- and back-end frameworks and flawless user interfaces. For this, I mainly use React, Angular, Vue, Laravel, Next.js, Nest.js etc.<br><br>
 
-### My Project Story
-- [Crypto App](https://demo.bct.trade/) - Developed the crypto currency exchange platform using React/Mobx / Implemented socket for real time data communication for marketing data and other time sensitive data using socket cluster / Implement trading view to show the marketing status Customized high charts for showing various types of chart such as depth chart, area chart, line chart and etc.
-- [Wallet App](https://trade.coinve.st/) - Developed the wallet and trade platform based on Node.js and React/Redux / Implement the wallet system via connection to the blockchain network using Web3.js and Truffle / data from etherscan, cryptocompare API and blockchain node.
-- [Vacation Renter](https://vacationrenter.com/) - React, Redux, Node, GCP, ElasticSearch, MongoDB. I worked as a senior full-stack web developer to maintain this app. / I refactored the front-end codebase with new tech stuff. / Upgraded React Class Components to functional components with React hook. Improved code quality for all existing and new Components build close to over 95% with an emphasis on TDD.
-- [Smile Direct Club](https://smiledirectclub.com/) - It provides users convenience which makes it easy to buy aligners not have to visit the offices. / I worked as a full-stack developer. I built the project with (React/Node.js) and was responsible for building reusable and testable components, DB management for the back-end part, and other image processing.
-
-</details> 
+I also invest in continuous learning opportunities. For this purpose, I completed various web development courses and workshops on object-oriented programming, database management, and machine learning.<br>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
