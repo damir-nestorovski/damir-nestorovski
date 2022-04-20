@@ -1,6 +1,5 @@
 ### Hi there <a href="https://damir-nestorovski.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-🔗 &nbsp;**Connect with me**
 <p align="left">
 
 &nbsp;**About**
